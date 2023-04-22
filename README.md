@@ -1,3 +1,13 @@
+<style>
+ .stack {
+  display: flex;
+  flex-direction: row;
+ }
+ a > img {
+  display: flex
+ }
+</style>
+
 ## Hi there, I'm Christmann Hugo 👋 ![](https://komarev.com/ghpvc/?username=developer-guy&color=green&&style=flat)  [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/developer-guy) ![GitHub Sponsor](https://img.shields.io/github/sponsors/developer-guy?label=Sponsor&logo=GitHub)
 
 
@@ -10,7 +20,7 @@ Hi, I'm [Christmann Hugo](https://linkedin.com/in/bthnapydin), a Web & Mobile de
 <img align="right" alt="GIF" src="https://github.com/developer-guy/developer-guy/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## Languages and Tools:
-<p align="center">
+<p class = 'stack' align="center">
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
