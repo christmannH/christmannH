@@ -1,7 +1,7 @@
 <style>
  .stack {
   display: flex;
-  flex-direction: row;
+  flex-direction: row-wrap;
   margin-right: 40px;
  }
  a > img {
@@ -21,7 +21,7 @@ Hi, I'm [Christmann Hugo](https://linkedin.com/in/bthnapydin), a Web & Mobile de
 <img align="right" alt="GIF" src="https://github.com/developer-guy/developer-guy/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## Languages and Tools:
-<p class = 'stack' align="center">
+<div class = 'stack'>
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -216,7 +216,7 @@ Hi, I'm [Christmann Hugo](https://linkedin.com/in/bthnapydin), a Web & Mobile de
       height="60"
     />
     </a>
-</p>
+</div>
 <br>
 <br>
 
