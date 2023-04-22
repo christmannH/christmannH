@@ -2,6 +2,7 @@
  .stack {
   display: flex;
   flex-direction: row;
+  margin-right: 40px;
  }
  a > img {
   display: flex
