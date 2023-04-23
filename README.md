@@ -4,7 +4,7 @@
 <h3 align="center">welcome to my account</h3>
 
 <i>❝“Everyone who is a developer will have their own dream. My dream is just reach the top of IT❞</i>
-<!--ENDS_HERE_QUOTE_README--
+<!--ENDS_HERE_QUOTE_README-->
 
 Hi, I'm [Christmann Hugo](https://linkedin.com/in/bthnapydin), a Web & Mobile developer 🚀 from Germany, who trying hard and hard to achieve dream !! 
 <img style = "text-align:center; margin-left:auto; margin-right: right" alt="GIF" src="https://github.com/developer-guy/developer-guy/blob/master/code.gif?raw=true" width="500" height="320" />
