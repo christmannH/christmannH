@@ -4,7 +4,7 @@
 <h3 align="center">welcome to my account</h3>
 
 <i>❝“Everyone who is a developer will have their own dream. My dream is just reach the top of IT❞</i>
-<!--ENDS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README--
 
 Hi, I'm [Christmann Hugo](https://linkedin.com/in/bthnapydin), a Web & Mobile developer 🚀 from Germany, who trying hard and hard to achieve dream !! 
 <img style = "text-align:center; margin-left:auto; margin-right: right" alt="GIF" src="https://github.com/developer-guy/developer-guy/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -96,7 +96,7 @@ Hi, I'm [Christmann Hugo](https://linkedin.com/in/bthnapydin), a Web & Mobile de
       width="60"
       height="60"
     />
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="60" height="40"/> </a> 
+    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="60" height="60"/> </a> 
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://img.icons8.com/fluency/144/null/node-js.png"
@@ -119,7 +119,7 @@ Hi, I'm [Christmann Hugo](https://linkedin.com/in/bthnapydin), a Web & Mobile de
       height="60"
     />
   </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a>
   <a href="https://www.github.com/" target="_blank" rel="noreferrer">
     <img
       src="https://i.ibb.co/3Nmd776/github-original-wordmark.png"
