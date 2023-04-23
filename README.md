@@ -33,7 +33,6 @@ Hi, I'm [Christmann Hugo](https://linkedin.com/in/bthnapydin), a Web & Mobile de
     <img src="https://github.com/github/explore/raw/main/topics/bash/bash.png" alt="bash" width="40" height="40"/>
     <img src="https://github.com/github/explore/raw/main/topics/docker/docker.png" alt="docker" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     <img src="https://github.com/github/explore/raw/main/topics/go/go.png" alt="go" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
