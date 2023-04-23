@@ -58,9 +58,5 @@ Hi, I'm [Christmann Hugo](https://linkedin.com/in/bthnapydin), a Web & Mobile de
 
 <br/>
 <br/>
-
-<a href="https://github.com/developernaimul/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=developernaimul&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
 <br/>
 
