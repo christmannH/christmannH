@@ -6,8 +6,10 @@
 <i>❝“Everyone who is a developer will have their own dream. My dream is just reach the top of IT❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
-Hi, I'm [Christmann Hugo](https://linkedin.com/in/bthnapydin), a Web & Mobile developer 🚀 from Germany, who trying hard and hard to achieve dream !! 
-<img align = "center" alt="GIF" src="https://github.com/developer-guy/developer-guy/blob/master/code.gif?raw=true" width="500" height="320" />
+Hi, I'm [Christmann Hugo], a Web & Mobile developer 🚀 from Germany, who trying hard and hard to achieve dream !! 
+<p align = "center">
+  <img alt="GIF" src="https://github.com/developer-guy/developer-guy/blob/master/code.gif?raw=true" width="500" height="320" />
+</p>
 
 ### Talking about Personal Stuffs
   <h3> I am implementing perfect UI to Gabagy school itself site.</h3>
