@@ -1,4 +1,3 @@
-## Hi there, I'm Christmann Hugo 👋 ![](https://komarev.com/ghpvc/?username=developer-guy&color=green&&style=flat)  [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/developer-guy) ![GitHub Sponsor](https://img.shields.io/github/sponsors/developer-guy?label=Sponsor&logo=GitHub)
 
 
 
