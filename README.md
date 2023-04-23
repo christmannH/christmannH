@@ -96,11 +96,7 @@ Hi, I'm [Christmann Hugo](https://linkedin.com/in/bthnapydin), a Web & Mobile de
       width="60"
       height="60"
     />
-    <a href="https://www.php.net" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/php-logo.png" width = "60" height = "60" alt="php"/> </a> 
-    <a href="https://laravel.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/laravel.png" width = "60" height = "60" alt="laravel"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"  width = "60" height = "60" /> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"  width = "60" height = "60" /> </a>  
-    <a href="https://www.djangoproject.com" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/25/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-duo-tal-revivo.png"  width = "60" height = "60"/> </a>
+    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://img.icons8.com/fluency/144/null/node-js.png"
