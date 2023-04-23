@@ -10,7 +10,7 @@ Hi, I'm [Christmann Hugo](https://linkedin.com/in/bthnapydin), a Web & Mobile de
 <img style = "text-align:center; margin-left:auto; margin-right: right" alt="GIF" src="https://github.com/developer-guy/developer-guy/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ### Talking about Personal Stuffs
-- 🌱 I am implementing perfect UI to Gabagy school itself site.
+  <h3> I am implementing perfect UI to Gabagy school itself site.</h3>
 
 ### 🧰 Languages and Tools
 <p style = "text-align:center; margin-left:auto; margin-right: right">
