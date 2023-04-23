@@ -38,7 +38,5 @@ Hi, I'm [Christmann Hugo](https://linkedin.com/in/bthnapydin), a Web & Mobile de
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
     <img src="https://github.com/github/explore/raw/main/topics/linux/linux.png" alt="linux" width="40" height="40"/>
-    <img src="https://camo.githubusercontent.com/d13e208052a3e9d83243cd804635e60e4a238c43a86ce1bc6aea249c39c67709/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7465727261666f726d696f2f7465727261666f726d696f2d617232312e737667" alt="terraform" width="40" height="40"/>
-    <img src="https://camo.githubusercontent.com/2d750a7a1cae7f8d5f8a3a6d5cb6c63c1fe80a17794dd79800a86a4881ce900c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f636f6e73756c696f2f636f6e73756c696f2d617232312e737667" alt="consul" width="40" height="40"/>
 </p>
 
