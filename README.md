@@ -96,7 +96,7 @@ Hi, I'm [Christmann Hugo](https://linkedin.com/in/bthnapydin), a Web & Mobile de
       width="60"
       height="60"
     />
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
+    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="60" height="40"/> </a> 
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://img.icons8.com/fluency/144/null/node-js.png"
@@ -119,6 +119,7 @@ Hi, I'm [Christmann Hugo](https://linkedin.com/in/bthnapydin), a Web & Mobile de
       height="60"
     />
   </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.github.com/" target="_blank" rel="noreferrer">
     <img
       src="https://i.ibb.co/3Nmd776/github-original-wordmark.png"
