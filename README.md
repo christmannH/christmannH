@@ -8,7 +8,7 @@
 
 Hi, I'm [Christmann Hugo], a Web & Mobile developer 🚀 from Germany, who trying hard and hard to achieve dream !! 
 <p align = "center">
-  <img alt="GIF" src="https://github.com/developer-guy/developer-guy/blob/master/code.gif?raw=true" width="90%" height="320" />
+  <img alt="GIF" src="https://github.com/developer-guy/developer-guy/blob/master/code.gif?raw=true" width="90%" height="420" />
 </p>
 
 ### Talking about Personal Stuffs
