@@ -6,7 +6,7 @@
 <i>❝“Everyone who is a developer will have their own dream. My dream is just reach the top of IT❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
-Hi, I'm [Christmann Hugo], a Web & Mobile developer 🚀 from Germany, who trying hard and hard to achieve dream !! 
+Hi, I'm [David Roller], a Web & Mobile developer 🚀 from Germany, who trying hard and hard to achieve dream !! 
 <p align = "center">
   <img alt="GIF" src="https://github.com/developer-guy/developer-guy/blob/master/code.gif?raw=true" width="90%" height="420" />
 </p>
